@@ -1,8 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 Since: `05/06/2024 12:44 PM`
-![](https://komarev.com/ghpvc/?username=timeowilliams&style=plastic&color=ff69b4)
-![](https://hit.yhype.me/github/profile?user_id=19152894)
+
 
 
 - 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
@@ -19,7 +18,8 @@ Since: `05/06/2024 12:44 PM`
 
 
 
-
+![](https://komarev.com/ghpvc/?username=timeowilliams&style=plastic&color=ff69b4)
+![](https://hit.yhype.me/github/profile?user_id=19152894)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
