@@ -4,19 +4,18 @@ Since: `05/06/2024 12:44 PM`
 
 
 
-- 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
-- 🌱 &nbsp;Currently improving my skills in: ~MLOPS, basic CSS
-- 💬 &nbsp;Ask me about anything related to: Python/AI/ML OR chai masala tea, 
+- 🔭 &nbsp;I’m working on: deepFocus (Electron app to keep track of productivity hours) :wink:
+- 🌱 &nbsp;Currently improving my skills in: ~SolidJS
 
 📕 &nbsp;**Open Source work I've done:**
 <!-- BLOG-POST-LIST:START -->
 - [Library to assist with message reprocessing with KafkaJS](https://github.com/oslabs-beta/kafka-penguin)
+- [Github Action to track your package size](https://github.com/timeowilliams/package-size-badge-action)
 <!-- BLOG-POST-LIST:END -->
 
 
 
 
-![](https://komarev.com/ghpvc/?username=timeowilliams&style=plastic&color=ff69b4)
 ![](https://hit.yhype.me/github/profile?user_id=19152894)
 
 
